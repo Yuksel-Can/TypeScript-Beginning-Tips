@@ -41,7 +41,7 @@ class Customer extends User {
 
     cart() {
         console.log("Cart Empty")
-    } 
+    }
 }
 class Personel extends User {
 
